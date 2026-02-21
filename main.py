@@ -51,7 +51,7 @@ response1 = chat_stream(
     "Is this outfit good for today?",
     config,
     context,
-    image_path="images/ca_person.jpg"
+    image_path="images/sweater.jpg"
 )
 
 response1 = chat_stream(
