@@ -54,13 +54,13 @@ response1 = chat_stream(
     image_path="images/sweater.jpg"
 )
 
-response1 = chat_stream(
+response2 = chat_stream(
     "How is the weather today and any tips for me?",
     config,
     context
 )
 
-response1 = chat_stream(
+response3 = chat_stream(
     "whats the most impostant tip u gave me above and how its going to reply u gave on my outfit above",
     config,
     context
